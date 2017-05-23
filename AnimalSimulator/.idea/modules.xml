@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnimalSimulator.iml" filepath="$PROJECT_DIR$/.idea/modules/AnimalSimulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnimalSimulator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AnimalSimulator_main.iml" group="AnimalSimulator" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AnimalSimulator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AnimalSimulator_test.iml" group="AnimalSimulator" />
+    </modules>
+  </component>
+</project>
